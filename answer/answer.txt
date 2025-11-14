@@ -1,0 +1,5 @@
+Part1-1a: 2
+Part1-1b: 40 MHz
+Part1-1c: 160 MHz
+Part1-1d: 4MB
+Part1-1e: 305060 bytes
